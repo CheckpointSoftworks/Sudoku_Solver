@@ -1,0 +1,6 @@
+TEST PLAN FOR SUDOKU:
+
+1.] Test using given sample input.
+2.] Test using altered sample input with different numbers.
+3.] Test using all blanks as an input (SHOULD still work, maybe not!)
+4.] Find a 2 Sudoku puzzle builder online, and make some there and test.
