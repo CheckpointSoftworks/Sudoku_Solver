@@ -1,7 +1,3 @@
-//CSE 3521 Lab 3: Sudoku Solver
-//Student: Ian Weber
-//Date: November 16, 2014
-
 #include <iostream>  
 #include <vector>
 #include <string>
